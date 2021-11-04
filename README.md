@@ -1,6 +1,6 @@
 # Wheres-the-food-Using-Android-Java
 
-Wheres the food is an food ordering mobile app to place an order.
+Wheres the food is a food ordering mobile app to place an order.
 
 ✓ Can view available items
 
